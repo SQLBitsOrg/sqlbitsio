@@ -14,20 +14,20 @@ title: What Do We Have
       </thead>
       <tbody>
 
-        {% for post in site.posts %}
+        {% for post in site.pages %}
             <!-- post content here -->
         <tr>
             <td>
-                <a href="https://sqlbits.io{{ post.permalink }}">
-                    https://sqlbits.io{{ post.permalink }}
+                <a href="https://sqlbits.io{{ post.redirect.from }}">
+                    https://sqlbits.io{{ post.redirect.from }}
                 </a>
             </td>
             <td>
-                {{ post.permalink }}
+                {{ post.redirect.from }}
             </td>
             <td>
-                <a href="{{ post.redirect_to }}">
-                    { post.redirect_to }}
+                <a href="{{ post.redirect.to }}">
+                    { post.redirect.to }}
                 </a>
             </td>
           </tr>
