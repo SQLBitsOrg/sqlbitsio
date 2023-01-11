@@ -38,6 +38,15 @@ To save it you scroll down and click the commit new file button.
 
 ![image](https://user-images.githubusercontent.com/6729780/211770576-1064bbf7-bb96-4b68-91c6-7647cbe42a08.png)
 
+Then you wait for hte action to do its thing
+
+[/sqlbitsio/actions](/sqlbitsio/actions)
+
+Once the top one is green
+
+![image](https://user-images.githubusercontent.com/6729780/211775268-0afcf9c3-46fd-498a-87f8-93c5c2417f37.png)
+
+
 Then you test it before sharing it!!
 
 ![image](https://user-images.githubusercontent.com/6729780/211770889-1e5d826f-b33c-4eee-87eb-3d94771d603d.png)
