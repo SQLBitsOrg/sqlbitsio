@@ -1,3 +1,9 @@
+# SQLBits.io short links
+
+This repo will create sqlbits.io shortlinks
+
+You can see the existing short links here https://sqlbits.io/whatdowehave/
+
 # How to create a new short link for sqlbits.io in the browser
 
 To create a new short link, you need to create a new file in the root of this repository.
