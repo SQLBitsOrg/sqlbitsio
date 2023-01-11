@@ -21,25 +21,25 @@ title: What Do We Have
 </thead>
 <tbody>
   <tr>
-          {% for post in site.pages %}
-            <!-- post content here -->
-        <tr>
-            <td class="tg-0lax">
-                <a href="https://sqlbits.io{{ post.redirect.from }}">
-                    https://sqlbits.io{{ post.redirect.from }}
-                </a>
-            </td>
-            <td class="tg-0lax">
-                {{ post.redirect.from }}
-            </td>
-            <td class="tg-0lax">
-                <a href="{{ post.redirect.to }}">
-                    {{ post.redirect.to }}
-                </a>
-            </td>
-          </tr>
-        {% endfor %}
-
+      {% for post in site.pages %}
+          {% if post.redirect.from  %} 
+            <tr>
+                <td class="tg-0lax">
+                    <a href="https://sqlbits.io{{ post.redirect.from }}">
+                        https://sqlbits.io{{ post.redirect.from }}
+                    </a>
+                </td>
+                <td class="tg-0lax">
+                    {{ post.redirect.from }}
+                </td>
+                <td class="tg-0lax">
+                    <a href="{{ post.redirect.to }}">
+                        {{ post.redirect.to }}
+                    </a>
+                </td>
+              </tr>
+        {% endif %}
+    {% endfor %}
   </tr>
 </tbody>
 </table>
