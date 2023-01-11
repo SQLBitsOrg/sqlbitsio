@@ -8,14 +8,13 @@ title: What Do We Have
       <thead>
         <tr>
           <th scope="col">Short Link</th>
-          <th scope="col">Short Link Name/th>
+          <th scope="col">Short Link Name</th>
           <th scope="col">Redirects To</th>
         </tr>
       </thead>
       <tbody>
 
         {% for post in site.posts %}
-        {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
             <!-- post content here -->
         <tr>
             <td>
