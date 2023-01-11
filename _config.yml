@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
