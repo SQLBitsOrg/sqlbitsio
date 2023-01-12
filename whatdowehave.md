@@ -17,8 +17,8 @@ title: What Do We Have
           {% if post.redirect.from  %} 
             <tr>
                 <td class="tg-0lax">
-                    <a href="sqlbits.io{{ post.redirect.from }}">
-                        sqlbits.io{{ post.redirect.from }}
+                    <a href="https://sqlbits.io/{{ post.redirect.from }}">
+                        sqlbits.io/{{ post.redirect.from }}
                     </a>
                 </td>
                 <td class="tg-0lax">
