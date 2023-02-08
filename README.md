@@ -22,7 +22,8 @@ you create a new file called `darren.md`, the picture below creates one called `
 
 ![image](https://user-images.githubusercontent.com/6729780/211768657-c7ec98c7-3d28-484d-bd62-c130d051054f.png)
 
-IN that file you put the following including the `---` formatted exactly like this
+In that file you put the following including the `---` formatted exactly like this. You can use the ![image](https://user-images.githubusercontent.com/6729780/217482116-9585f1ba-5990-41f0-9943-5c6efe88a394.png) to copy it. It will only show when you hover over the above code
+
 
 ````
 ---
