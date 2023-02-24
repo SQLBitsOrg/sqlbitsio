@@ -1,3 +1,7 @@
+---
+permalink: /onsitepsych /
+title: "Need To Talk?"
+---
 # Need To Talk?
 
 This is the SQLBits Need To Talk Page
