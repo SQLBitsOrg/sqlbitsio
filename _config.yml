@@ -5,3 +5,5 @@ whitelist:
   - jekyll-redirect-from
 plugins:
   - jekyll-redirect-from
+include:
+  - _pages
