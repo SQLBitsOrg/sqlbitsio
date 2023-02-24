@@ -21,5 +21,7 @@ twitter: @sqlbitstotalk
 ## Here are some other useful links
 
 Samaritans: 116 123 (free phone)
+
 Text SHOUT to 85258
+
 MIND: 0300 123 3393
