@@ -8,11 +8,11 @@ This is the SQLBits Need To Talk Page
 
 ## Here are the methods to contact the on-site psych during SQLBits Conference
 
-phone: +44 7876 128774
+phone: +44 7384 382 928
 
-signal: +44 7876 128774
+signal: +44 7384 382 928
 
-whatsapp: +44 7876 128774
+whatsapp: +44 7384 382 928
 
 email: sqlbitsneedtotalk@gmail.com
 
